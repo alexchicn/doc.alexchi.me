@@ -3,23 +3,22 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Alex Chi's documentation!
+欢迎访问Alex Chi的文档
 ====================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 目录:
 
 
-
-Indices and tables
+索引和表
 ==================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
 
-Blogs:
+博客:
 
-* Test
+* 测试
 
