@@ -6,18 +6,15 @@
 欢迎来到Alex Chi的文档！
 ====================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: 目录:
-
 作为一名计算机图形学爱好者，在这里分享一些开发心得、基础论文和前沿技术。
 
-计算机图形学:
+.. toctree::
+   :caption: 目录
+   :numbered:
 
-* 光纤追踪
-
-图形引擎:
-
-* 虚幻引擎
+   computergraphics/index
+   engines/index
+   papers/index
+   courses/index
 
 邮箱: alexchicn@gmail.com
