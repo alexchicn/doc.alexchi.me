@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Alex Chi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-11 00:58+0800\n"
+"POT-Creation-Date: 2020-10-11 01:05+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,27 +25,43 @@ msgstr "Contents:"
 msgid "欢迎来到Alex Chi的文档！"
 msgstr "Welcome to Alex Chi's documentation!"
 
-#: ../../source/index.rst:16
-msgid "索引和表"
-msgstr "Indices and tables"
+#: ../../source/index.rst:13
+msgid "计算机图形学:"
+msgstr "Computer Graphics"
 
-#: ../../source/index.rst:18
-msgid ":ref:`genindex`"
-msgstr ""
+#: ../../source/index.rst:15
+msgid "光纤追踪"
+msgstr "Ray Tracing"
+
+#: ../../source/index.rst:17
+msgid "图形引擎:"
+msgstr "Graphics Engine"
 
 #: ../../source/index.rst:19
-msgid ":ref:`modindex`"
-msgstr ""
+msgid "虚幻引擎"
+msgstr "Unreal Engine"
 
-#: ../../source/index.rst:20
-msgid ":ref:`search`"
-msgstr ""
+#~ msgid "索引和表"
+#~ msgstr "Indices and tables"
 
-#: ../../source/index.rst:22
-msgid "博客:"
-msgstr "Blog:"
+#~ msgid ":ref:`genindex`"
+#~ msgstr ""
 
-#: ../../source/index.rst:24
-msgid "测试"
-msgstr "Test"
+#~ msgid ":ref:`modindex`"
+#~ msgstr ""
+
+#~ msgid ":ref:`search`"
+#~ msgstr ""
+
+#~ msgid "博客:"
+#~ msgstr "Blog:"
+
+#~ msgid "测试"
+#~ msgstr "Test"
+
+#~ msgid "渲染技术:"
+#~ msgstr "Render Tech"
+
+#~ msgid "Unreal Engine"
+#~ msgstr "Unreal Engine"
 
