@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Alex Chi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-11 00:42+0800\n"
+"POT-Creation-Date: 2020-10-11 00:58+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,16 +18,16 @@ msgstr ""
 "Generated-By: Babel 2.8.0\n"
 
 #: ../../source/index.rst:9
-msgid "Contents:"
-msgstr "目录"
+msgid "目录:"
+msgstr "Contents:"
 
 #: ../../source/index.rst:7
-msgid "Welcome to Alex Chi's documentation!"
-msgstr "欢迎来到Alex Chi的文档！"
+msgid "欢迎来到Alex Chi的文档！"
+msgstr "Welcome to Alex Chi's documentation!"
 
 #: ../../source/index.rst:16
-msgid "Indices and tables"
-msgstr "索引和表"
+msgid "索引和表"
+msgstr "Indices and tables"
 
 #: ../../source/index.rst:18
 msgid ":ref:`genindex`"
@@ -42,10 +42,10 @@ msgid ":ref:`search`"
 msgstr ""
 
 #: ../../source/index.rst:22
-msgid "Blog:"
-msgstr "博客"
+msgid "博客:"
+msgstr "Blog:"
 
 #: ../../source/index.rst:24
-msgid "Test"
-msgstr "测试"
+msgid "测试"
+msgstr "Test"
 
