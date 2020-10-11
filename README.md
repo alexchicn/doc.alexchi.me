@@ -1,3 +1,3 @@
-# alexchi.me
+# doc.alexchi.me
 
-Visit the [http://alexchi.me](http://alexchi.me).
+Visit the [http://doc.alexchi.me](http://doc.alexchi.me).
